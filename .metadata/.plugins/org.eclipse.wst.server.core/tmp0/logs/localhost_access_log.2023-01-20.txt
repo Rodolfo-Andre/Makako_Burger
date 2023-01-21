@@ -1,0 +1,9 @@
+127.0.0.1 - - [20/Jan/2023:21:58:20 -0500] "GET / HTTP/1.1" 404 687
+0:0:0:0:0:0:0:1 - - [20/Jan/2023:21:58:22 -0500] "GET /MakakoBurger-Final/css/sign_in_up_style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [20/Jan/2023:21:58:22 -0500] "GET /MakakoBurger-Final/css/style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [20/Jan/2023:21:58:23 -0500] "GET /MakakoBurger-Final/login.jsp HTTP/1.1" 200 3347
+127.0.0.1 - - [20/Jan/2023:22:00:48 -0500] "GET / HTTP/1.1" 404 687
+0:0:0:0:0:0:0:1 - - [20/Jan/2023:22:00:51 -0500] "GET /MakakoBurger-Final/caja.jsp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [20/Jan/2023:22:01:06 -0500] "POST /MakakoBurger-Final/login HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [20/Jan/2023:22:01:06 -0500] "GET /MakakoBurger-Final/indexAdmin.jsp HTTP/1.1" 200 6697
+0:0:0:0:0:0:0:1 - - [20/Jan/2023:22:01:08 -0500] "GET /MakakoBurger-Final/login?type=logout HTTP/1.1" 302 -

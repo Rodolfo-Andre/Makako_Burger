@@ -1,0 +1,56 @@
+/* ------------------------ SIGN-IN AND SIGN-UP ------------------------ */
+body{
+	background-color: #FFF6E8;
+}
+
+.box-data {
+	margin: auto;
+	padding: 20px;
+	border-radius: 17px;
+	width: 100%;
+	background-color: rgba(255, 255, 255, 0.75);
+}
+
+.login {
+	max-width: 350px;
+}
+
+.register {
+	max-width: 400px;
+	margin: 1rem auto;
+}
+
+.help-block {
+	color: #dc3545;
+}
+
+.box-data > h2 {
+	margin-bottom: 20px;
+	font-weight: bold;
+}
+
+.login-form {
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+}
+
+.login-error {
+	text-align: left;
+	font-size: .875em;	
+	margin-bottom: 0.25rem;
+	color: var(--bs-red);
+}
+
+.recover-password {
+	align-self: flex-end;
+	color: var(--bs-dark);
+	text-decoration: none;
+	font-weight: 300;
+	transition: opacity 300ms ease-in-out;
+}
+
+.recover-password:hover {
+	color: var(--bs-dark);
+	opacity: .75;
+}
